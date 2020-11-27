@@ -2,7 +2,7 @@
 
 StreamerEventViewer helps its audience see their favorite streamer's Twitch events in real-time.
 
-Demo Video : [https://www.youtube.com/watch?v=fh46idVufgI&feature=youtu.be]
+Demo Video : [https://www.youtube.com/watch?v=fh46idVufgI&feature=youtu.be](StreamEventViewer - YouTube)
 
 Live Demo : [http://34.230.90.77:3000/](http://34.230.90.77:3000/)
 
