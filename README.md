@@ -2,6 +2,7 @@
 
 StreamerEventViewer helps its audience see their favorite streamer's Twitch events in real-time.
 
+Demo Video : [https://www.youtube.com/watch?v=fh46idVufgI&feature=youtu.be]
 Live Demo : [http://34.230.90.77:3000/](http://34.230.90.77:3000/)
 
 ## Description
@@ -37,8 +38,7 @@ To run this app locally:
 
 ## AWS Architecture
 
-![StreamerEventViewer%209533047e0a6a48db98b7f53484dd111c/AWS_(2019)_horizontal_framework.png](StreamerEventViewer%209533047e0a6a48db98b7f53484dd111c/AWS_(2019)_horizontal_framework.png)
-
+![AWS (2019) horizontal framework](https://user-images.githubusercontent.com/7234185/100400389-5fd9d780-3024-11eb-9300-4aca7bd62542.png)
 The above architecture looks to be ideal for this use case and the architecture is designed with a large provision for future scaling
 
 Some of the major components used in the architecture are :
